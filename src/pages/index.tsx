@@ -21,7 +21,7 @@ const Home: NextPage = () => {
           <span className="text-purple-300">RotMG</span> Mirror Portal
         </h1>
         <p className="text-2xl text-gray-700">Tools (Forked from Haizor, Archived, and Self-Hosted):</p>
-        <div className="grid gap-3 pt-3 mt-3 text-center md:grid-cols-2 lg:w-2/3">
+        <div className="grid gap-3 pt-3 mt-3 text-center md:grid-cols-3 lg:w-2/3">
           <TechnologyCard
             name="DPS Calculator"
             description="A tool that calculates your DPS in game on average."
@@ -31,6 +31,11 @@ const Home: NextPage = () => {
             name="Skin Viewer"
             description="A tool to customize and view dyes/cloths on your character."
             documentation="https://ayanamy.is-a.dev/rotmg-skin-viewer/"
+          />
+          <TechnologyCard
+            name="Contribute"
+            description="Would love for these archived projects to turn into something the community can work on in tandem. Any contributions are welcome! :3"
+            documentation="https://github.com/rotmg-mirror/"
           />
         </div>
       </main>
