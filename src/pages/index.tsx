@@ -34,7 +34,7 @@ const Home: NextPage = () => {
           />
           <TechnologyCard
             name="Contribute"
-            description="Would love for these archived projects to turn into something the community can work on in tandem. Any contributions are welcome! :3"
+            description="Would love for these archived projects to turn into something the community can work on in tandem. Any contributions are welcome, am in progress of moving everything into this organization's repositories! :3"
             documentation="https://github.com/rotmg-mirror/"
           />
         </div>
