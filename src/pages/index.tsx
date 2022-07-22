@@ -30,7 +30,7 @@ const Home: NextPage = () => {
           <TechnologyCard
             name="Skin Viewer"
             description="A tool to customize and view dyes/cloths on your character."
-            documentation="https://ayanamy.is-a.dev/rotmg-skin-viewer/"
+            documentation="/rotmg-skin-viewer/"
           />
           <TechnologyCard
             name="Contribute"
