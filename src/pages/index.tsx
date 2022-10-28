@@ -25,7 +25,7 @@ const Home: NextPage = () => {
           <TechnologyCard
             name="DPS Calculator"
             description="A tool that calculates your DPS in game on average."
-            documentation="https://jy1263.github.io/rotmg-dps-calculator/"
+            documentation="/rotmg-dps-calculator/"
           />
           <TechnologyCard
             name="Skin Viewer"
